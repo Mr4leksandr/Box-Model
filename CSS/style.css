@@ -1,0 +1,32 @@
+div{
+    height: 100px;
+    width: 100px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+body{
+    border: 10px solid red;
+    margin: 0;
+}
+
+.lightgreen{
+    background-color: lightgreen;
+    margin-left: 200px;
+    text-align: center;
+}
+
+.green{
+    background-color: green;
+    margin-left: 100px;
+    text-align: right;
+}
+
+.blue{
+    background-color: blue;
+    margin-left: 0px
+}
+
+p{
+    margin: 0;
+    
+}
